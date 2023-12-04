@@ -1,0 +1,5 @@
+- 👋 Hi, we're @nevercompany – a dynamic duo of friends, united by our passion for coding adventures!
+- 👀 We're interested in creating diverse projects that explore the realms of HTML, CSS, JavaScript, and Discord.js.
+- 🌱 We're currently learning and growing together, diving deeper into the world of web development and Discord bot creation.
+- 💞️ We're open to collaboration on exciting projects that challenge and inspire us.
+- 📫 Reach out to us by dropping a message here on https://never.company
